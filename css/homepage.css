@@ -1,0 +1,15 @@
+/* Mobile Version */
+.test {
+    color: var(--secondary-color);
+}
+
+
+    /* Pad Version */
+    @media screen and (min-width: 768px) {
+
+    }
+
+        /* Desktop Version */
+        @media screen and (min-width: 992px) {
+
+        }

@@ -1,0 +1,25 @@
+/* Mobile Version */
+.mobile-img {
+    display: block;
+}
+
+.desktop-img {
+    display: none;
+}
+
+
+    /* Pad Version */
+    @media screen and (min-width: 768px) {
+
+    }
+
+        /* Desktop Version */
+        @media screen and (min-width: 992px) {
+            .mobile-img {
+                display: none;
+            }
+
+            .desktop-img {
+                display: block;
+            }
+        }
